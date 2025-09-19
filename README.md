@@ -3,27 +3,25 @@
 Aesthetic landing page & Ordering System for a BakeryCafe – A full-stack portfolio project I built entirely by myself, from design to database.
 Client-side(Website) to order and Admin-side(Website) to manage.
 
-* Customer Website
+### Customer Website
+| Home | Home 2 |
+|------|--------|
+| ![Home](./preview-images/Client%28Website%29/1.%20home.PNG) | ![Home2](./preview-images/Client%28Website%29/2.%20home.PNG) 
 
-  ![Home](./preview-images/Client%28Website%29/1.%20home.PNG)
+| Order | Cart |
+|-------|------|
+| ![Order](./preview-images/Client%28Website%29/3.%20Order.PNG) | ![Cart](./preview-images/Client%28Website%29/5.%20Cart.PNG) |
 
-  ![Home2](./preview-images/Client%28Website%29/2.%20home.PNG)
+### Staff Website
+| Foods View | Edit Food |
+|-------------|---------|
+| ![Home](./preview-images/Staff%28Website%29/1.%20StaffFoodsView.PNG) | ![FoodEdit](./preview-images/Staff%28Website%29/2.%20StaffFoodEdit.PNG) |
 
-  ![Order](./preview-images/Client%28Website%29/3.%20Order.PNG)
+|Orders View |
+|------------|
+|![OrderViews](./preview-images/Staff%28Website%29/4.%20StaffOrdersView.PNG) 
 
-  ![Cart](./preview-images/Client%28Website%29/5.%20Cart.PNG)
-  
-
-* Staff Website 
-
-  ![Home](./preview-images/Staff%28Website%29/1.%20StaffFoodsView.PNG)
-
-  ![FoodEdit](./preview-images/Staff%28Website%29/2.%20StaffFoodEdit.PNG)
-  
-  ![OrderViews](./preview-images/Staff%28Website%29/4.%20StaffOrdersView.PNG)
-
-  ![Contact](./preview-images/Staff%28Website%29/6.%20Contact.PNG)
-  
+![Contact](./preview-images/Staff%28Website%29/6.%20Contact.PNG)
   
 
    
