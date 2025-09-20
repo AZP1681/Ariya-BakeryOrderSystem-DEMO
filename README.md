@@ -21,7 +21,6 @@ Client-side(Website) to order and Admin-side(Website) to manage.
 |------------|
 |![OrderViews](./preview-images/Staff%28Website%29/4.%20StaffOrdersView.PNG)  
 
-![Contact](./preview-images/Staff%28Website%29/6.%20Contact.PNG)
   
 
    
