@@ -67,10 +67,9 @@ A small single project ordering system for Bakery with:
 - *example: 126.104.x.x/admin || localhost/admin*
 
 ## ! Important ! ##
-**Account system haven't added yet, since this project is design to have minimal backend**
-- **For production, account systems and seperate admin app is needed**
+**Account system and seperate admin side haven't added yet, since this project is designed to have minimal backend**
 
-My salon project, which has account system and seperate admin-management desktop app:
+**View my salon project, which has account system and seperate admin-management desktop app:**
 - https://github.com/AZP1681/Forsi-SalonBooking-Adminstration-DEMO-
 
 
