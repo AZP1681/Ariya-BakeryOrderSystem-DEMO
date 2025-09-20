@@ -62,11 +62,11 @@ A small single project ordering system for Bakery with:
 
 --------------------------------------------------------------
 
-## Accessing Staff(Admin) Side ##
+## 📃 Accessing Staff(Admin) Side ##
 - go to /admin
 - *example: 126.104.x.x/admin || localhost/admin*
 
-## ! Important ! ##
+##⚠ Important ⚠##
 **Account system and seperate admin side haven't added yet, since this project is designed to have minimal backend**
 
 **View my salon project, which has account system and seperate admin-management desktop app:**
