@@ -12,7 +12,7 @@ Client-side(Website) to order and Admin-side(Website) to manage.
 |-------|------|
 | ![Order](./preview-images/Client%28Website%29/3.%20Order.PNG) | ![Cart](./preview-images/Client%28Website%29/5.%20Cart.PNG) |
 
-### Staff Website
+### Staff(Admin) Website
 | Foods View | Edit Food |
 |-------------|---------|
 | ![Home](./preview-images/Staff%28Website%29/1.%20StaffFoodsView.PNG) | ![FoodEdit](./preview-images/Staff%28Website%29/2.%20StaffFoodEdit.PNG) |
