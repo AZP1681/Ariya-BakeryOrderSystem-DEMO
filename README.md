@@ -1,4 +1,4 @@
-# Ariya - Bakery&Cafe Order System
+# Ariya - Bakery&Cafe Order System DEMO
 
 Aesthetic landing page & Ordering System for a BakeryCafe – A full-stack portfolio project I built entirely by myself, from design to database.
 Client-side(Website) to order and Admin-side(Website) to manage.
@@ -65,6 +65,8 @@ A small single project ordering system for Bakery with:
 ## 📃 Accessing Staff(Admin) Side ##
 - go to /admin
 - *example: 126.104.x.x/admin || localhost/admin*
+
+--------------------------------------------------------------
 
 ## ⚠ Important ⚠ ##
 **Account system and seperate admin side haven't added yet, since this project is designed to have minimal backend**
