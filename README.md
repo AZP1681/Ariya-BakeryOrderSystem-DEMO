@@ -46,7 +46,7 @@ A small single project ordering system for Bakery with:
 
  {<--Website-->}
   - Customer Order Multiple Foods (real-time price calculation).
-  - Customer can manage their order in Cart View (auantity & Deletation).
+  - Customer can manage their order in Cart View (Quantity & remove).
   - Customer fills their contacts, address and informations safely to make an appointment (no account system yet).
 
  {<--Admin's Website-->}
