@@ -33,7 +33,7 @@ A small single project ordering system for Bakery with:
  **PHP Blade** (customer interface)
  **Tauri Desktop App** (staff and services management for salon administrators)
 
-## Project Structure ##
+## 🧱 Project Structure ##
 - `/resources/views` → Blade files for frontend  !! { ***Request Access for source code*** } !!
 - `/app` → Laravel Backend Codes  !! { ***Request Access for source code*** } !!
 - `/public` → Images & Css  !! { ***Request Access for source code*** } !!
@@ -42,7 +42,7 @@ A small single project ordering system for Bakery with:
 
 ---
 
-## Features & Steps ##
+## 💫 Features & Steps ##
 
  {<--Website-->}
   - Customer Order Multiple Foods (real-time price calculation).
@@ -56,7 +56,7 @@ A small single project ordering system for Bakery with:
 
 --------------------------------------------------------------
 
-##  Tech Stack  ##
+## 📚 Tech Stack  ##
 - Laravel 12 + PostgreSQL
 - Blade + CSS
 
