@@ -69,7 +69,9 @@ A small single project ordering system for Bakery with:
 ## ! Important ! ##
 **Account system haven't added yet, since this project is design to have minimal backend**
 - **For production, account systems and seperate admin app is needed**
-My salon project which has account system and seperate admin-management desktop app: https://github.com/AZP1681/Forsi-SalonBooking-Adminstration-DEMO-
+
+My salon project, which has account system and seperate admin-management desktop app:
+- https://github.com/AZP1681/Forsi-SalonBooking-Adminstration-DEMO-
 
 
 ## ⚡ Accessing The Full Source Code
